@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AkitoTsukahara/typescript-lesson-udemy/issues"
   },
-  "homepage": "https://github.com/AkitoTsukahara/typescript-lesson-udemy#readme"
+  "homepage": "https://github.com/AkitoTsukahara/typescript-lesson-udemy#readme",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
 }
