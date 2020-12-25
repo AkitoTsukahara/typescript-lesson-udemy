@@ -13,7 +13,6 @@ class Lion extends Animal {
 
     constructor(name:string, speed: number) {
         super(name);
-
         this.speed = speed;
     }
 
